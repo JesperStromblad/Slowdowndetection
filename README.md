@@ -1,6 +1,6 @@
 # Slowdowndetection
 
-Implementation of cluster data point evaluation and slow-down detection algorithm proposed for a recommendation system for performance testing decision making evaluated on CERN CMS uploader service. This requires an understanding of our entire approach which is present in the [article] (). This approach is useful during performance regression testing of web service that deals with many test inputs.
+Implementation of cluster data point evaluation and slow-down detection algorithm proposed for a recommendation system for performance testing decision making evaluated on CERN CMS uploader service. This requires an understanding of our entire approach which is present in the [article] (link to be updated). This approach is useful during performance regression testing of web service that deals with many test inputs.
 
 # Files information
 
